@@ -6,6 +6,7 @@
   "repository": {},
   "dependencies": {},
   "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
     "del": "^2.2.2",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^4.0.0",
